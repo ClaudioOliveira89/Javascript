@@ -1,5 +1,7 @@
 ## Repository created for programming and development in the Javascript language.
-[![Javascript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=yellow) ](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
+![Javascript](https://shields.io/badge/JavaScript-black?logo=JavaScript&logoColor=25fafe)
+![Node.Js](https://shields.io/badge/Node.js-black?logo=Node.js&logoColor=25fafe)
+![React](https://shields.io/badge/React-black?logo=React&logoColor=25fafe)
 
 This repository was created for studies in JavaScript, a versatile language widely used for web development, both on the client and server sides. JavaScript plays a crucial role in creating dynamic web applications and is essential for full-stack development. The main objectives are to delve into front-end and back-end development, implement frameworks like React and Node.js, and build responsive web applications with modern JavaScript tools.
 
